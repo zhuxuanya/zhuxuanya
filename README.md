@@ -1,7 +1,12 @@
-## Hi there 👋
+### Hi there 👋
+
+Welcome to my page!  
+I'm Adam, a student from Shenzhen, China, currently studying in [National University of Singapore](https://www.nus.edu.sg/). Now I'm working as a **computer vision** engineer intern, mainly focusing on 3D target detection and real-time tracking based on point cloud data.
+
+![](https://komarev.com/ghpvc/?username=proprozxy)
 
 <!--
-**zhuxuanya/zhuxuanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**proprozxy/proprozxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
